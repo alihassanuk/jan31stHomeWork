@@ -13,7 +13,7 @@ public class jan31stHomework {
 				System.out.println("The addition of a and b = " + (a+b));
 				System.out.println("The difference of a and b is " +(a-b));
 				System.out.println("The devsion of a and b is = " + (a/b));
-				System.out.println("The arugula of b and a is = " + (b%a));
+				System.out.println("The modula of b and a is = " + (b%a));
 				System.out.println("The Multiplication of a d b is = " + (a*b));
 				
 		//......................Relational Operators...............	
